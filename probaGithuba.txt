@@ -1,2 +1,6 @@
 testowanko <3
+<<<<<<< HEAD
 testuje żółwika i githuba
+=======
+testuje żółwika 
+>>>>>>> c46dca33c04746a9eab026caecf810840d160891
